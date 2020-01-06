@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Vertigo Sensor",
+  "short_name": "Vertigo Sensor",
+  "version": "com.stanford.vertigosensor",
+  "description": "Companion app for the Stanford Wearable Vertigo Sensor",
+  "author": "PoHung Kuo and Ryan Ressmeyer",
+  "icons": [],
+  "start_url": "index.html"
+}
